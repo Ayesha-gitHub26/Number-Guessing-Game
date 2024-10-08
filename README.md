@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-A very simple number guessing game.No HTML used here however javascript is showcased.
+A very simple number guessing game. Not much of HTML used here however javascript is showcased.
